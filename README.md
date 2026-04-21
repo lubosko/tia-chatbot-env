@@ -1,2 +1,3 @@
-# tia-chatbot-env
-TIA portal AI assitent
+TIA Portal AI Chatbot
+
+use *.md for assistance
